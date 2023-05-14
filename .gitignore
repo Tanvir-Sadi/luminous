@@ -2,3 +2,4 @@
 .htaccess
 .idea
 node_modules
+vendor
