@@ -1,8 +1,8 @@
 {
   "name": "tanvir-sadi/luminous",
-  "type": "template",
+  "type": "project",
   "description": "A simple Web framework based on php",
-  "keywords": ["template"],
+  "keywords": ["luminous", "framework"],
   "homepage": "https://github.com/Tanvir-Sadi/luminous",
   "license": "MIT",
   "minimum-stability": "stable",
